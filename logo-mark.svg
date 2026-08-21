@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="MatterAwake logo">
+  <!-- Dark-background variant of the master mark: the outer crystal is light
+       so the logo stays distinct on the navy site header. -->
+  <path d="M365 28 Q385 24 394 46 L467 278 Q474 300 459 317 L380 421 Q369 434 352 436 L94 460 Q77 461 66 449 L28 406 Q19 395 22 379 L73 105 Q77 84 98 79 L365 28 Z" fill="#EEF3FB"/>
+  <path d="M219 166 Q228 153 245 158 L353 198 Q368 204 371 220 L389 337 Q391 353 378 362 L345 384 Q334 392 319 389 L184 367 Q166 364 171 346 L205 190 Q208 175 219 166 Z" fill="#102A43"/>
+  <path d="M245 256 L300 238 Q310 235 315 245 L344 321 L322 346 L248 339 Q235 337 238 324 L245 256 Z" fill="#7756FF"/>
+  <path d="M309 328 L335 300 L344 321 L322 346 Z" fill="#35E0B3"/>
+</svg>
